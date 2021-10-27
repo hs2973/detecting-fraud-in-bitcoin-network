@@ -10,7 +10,7 @@ cloudpickle==0.6.1
 colorcet==0.9.1
 cycler==0.10.0
 Cython==0.29
-dask==0.20.2
+dask==2021.10.0
 datashader==0.6.8
 datashape==0.5.2
 decorator==4.3.0
