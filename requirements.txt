@@ -15,7 +15,7 @@ datashader==0.6.8
 datashape==0.5.2
 decorator==4.3.0
 defusedxml==0.5.0
-distributed==1.24.2
+distributed==2021.10.0
 entrypoints==0.2.3
 gast==0.2.2
 grpcio==1.19.0
